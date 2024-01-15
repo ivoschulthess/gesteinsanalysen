@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Hartmut"
+    given-names: "Gyde"
+    orcid: "https://orcid.org/0000-0003-0313-7013"
+  - family-names: "Schulthess"
+    given-names: "Ivo"
+    orcid: "https://orcid.org/0000-0002-5621-2462"
+title: "ivoschulthess/gesteinsanalysen: v1.0"
+version: 1.0
+doi: 10.5281/zenodo.10513454
+date-released: 2024-01-15
+url: "https://github.com/ivoschulthess/gesteinsanalysen"
